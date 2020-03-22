@@ -150,7 +150,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e32b6fbed14ece4ba8a14d0eb0b067a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mapSize: 0
+  mapSize: 50
+  floor: {fileID: 3331009824150261499, guid: e3b4978cfa2aa2b4a974ffe3f675c19b, type: 3}
 --- !u!4 &453788278
 Transform:
   m_ObjectHideFlags: 0
